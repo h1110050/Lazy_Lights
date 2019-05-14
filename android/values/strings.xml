@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lazy Lights</string>
+    <string name="on">ON</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="off">OFF</string>
+    <string name="pair">GET PAIR LIST</string>
+    <string name="title">Hello Kingston!</string>
+</resources>
